@@ -1,7 +1,7 @@
 [General]
 Type=Multi
 DefaultCfg=default.cfg
-ParameterFile=WebHttpHtml1.prm
+ParameterFile=
 GlobalParameterFile=
 NewFunctionHeader=1
 RunType=cci
