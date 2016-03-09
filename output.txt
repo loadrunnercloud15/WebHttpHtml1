@@ -1,0 +1,23 @@
+Virtual User Script started at : 3/9/2016 12:52:35 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 10; build 1030 (Mar 09 2016 21:06:36)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\qatest\Documents\VuGen\Scripts\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Hello git
+Revision 3
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_url("kalimanjaro.hpswlabs.adapps.hp.com") started  	[MsgId: MMSG-26355]
+Action.c(4): Found resource "http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif" in HTML "http://kalimanjaro.hpswlabs.adapps.hp.com/"  	[MsgId: MMSG-26659]
+Action.c(4): Found resource "http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif" in HTML "http://kalimanjaro.hpswlabs.adapps.hp.com/"  	[MsgId: MMSG-26659]
+Action.c(4): web_url("kalimanjaro.hpswlabs.adapps.hp.com") was successful, 94764 body bytes, 1023 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

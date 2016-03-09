@@ -1,0 +1,129 @@
+[API Trapper      ( 5fc: ed0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 9d8:1e94)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (19b4: 81c)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (19b4: 288)] ------------------------------------------------------------------------------------------
+[Network Analyzer (19b4: 288)] Load Network Traffic Analyzers:
+[Network Analyzer (19b4: 288)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (19b4: 288)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (19b4: 288)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (19b4: 288)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (19b4: 288)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (19b4: 288)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (19b4: 288)]     Analyzer Module: local_server (value=)
+[Network Analyzer (19b4: 288)] ------------------------------------------------------------------------------------------
+[Network Analyzer (19b4: 3a4)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer (19b4:12cc)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer (19b4: 288)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer (19b4:12cc)] Request Connection: Remote Server @ 16.85.88.10:8080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (19b4: 3a4)] "GET http://kalimanjaro.hpswlabs.adapps.hp.com/"   
+[Network Analyzer (19b4: 3a4)]   (Sid:  1) Client -> Server @ : 328 bytes (Service=HTTP)
+[Network Analyzer (19b4: 288)] Request Connection: Remote Server @ 16.85.88.10:8080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (19b4: 3a4)]   (Sid:  1) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  1) Server -> Client : 993 bytes  (Service=HTTP)
+[Web Request      (19b4: 3a4)] "GET http://kalimanjaro.hpswlabs.adapps.hp.com/Images/logo.gif"   
+[Network Analyzer (19b4: 3a4)]   (Sid:  1) Client -> Server @ : 409 bytes (Service=HTTP)
+[Web Request      (19b4: 3a4)] "GET http://kalimanjaro.hpswlabs.adapps.hp.com/Images/ganim5b.gif"   
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Client -> Server @ : 412 bytes (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  1) Server -> Client : 1959 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 8160 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8:1690)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 9d8:1690)] Load Network Traffic Analyzers:
+[Network Analyzer ( 9d8:1690)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 9d8:1690)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 9d8:1690)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 9d8:1690)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 9d8:1690)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 9d8:1690)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 9d8:1690)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 9d8:1690)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 9d8: 458)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 10880 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8:1690)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 12240 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8:1690)] Request Connection: Remote Server @ 16.85.88.10:8080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 13600 bytes  (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 355 bytes  (Service=HTTP)
+[Web Request      (19b4: 3a4)] "GET http://kalimanjaro.hpswlabs.adapps.hp.com/favicon.ico"   
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Client -> Server @ : 270 bytes (Service=HTTP)
+[Web Request      ( 9d8: 458)] "CONNECT go.microsoft.com:443"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  1) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Server -> Client : 1849 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  1) Server -> Client : 39 bytes 
+[Network Analyzer ( 9d8: b5c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 9d8:1ccc)] Address lookup for myd-vm24196 = 16.60.162.12
+[Network Analyzer ( 9d8:1ccc)] Request Connection: Remote Server @ 16.85.88.10:8080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (19b4: 3a4)]   (Sid:  2) Connection Terminated (by Client)
+[Web Request      ( 9d8: 458)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oAAN43VPPQBXGCMiwAAQAA3jc%3D"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Client -> Server @ : 274 bytes (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2717 bytes  (Service=HTTP)
+[Web Request      ( 9d8: 458)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oAAN43VPPQBXGCMiwAAQAA3jc%3D"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Client -> Server @ : 317 bytes (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1490 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1227 bytes  (Service=HTTP)
+[Web Request      ( 9d8: 458)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Client -> Server @ : 179 bytes (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 8160 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 10880 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 8160 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 6800 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 9520 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 134 bytes  (Service=HTTP)
+[Web Request      ( 9d8: 458)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Client -> Server @ : 222 bytes (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 10914 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 12112 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 13536 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 5376 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 10880 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 4049 bytes  (Service=HTTP)
+[Web Request      ( 9d8: 458)] "GET http://crl.microsoft.com/pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Client -> Server @ : 175 bytes (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 10847 bytes  (Service=HTTP)
+[Network Analyzer ( 9d8: 458)]   (Sid:  2) Server -> Client : 2720 bytes  (Service=HTTP)
