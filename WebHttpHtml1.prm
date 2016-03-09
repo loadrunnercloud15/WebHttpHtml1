@@ -1,0 +1,8 @@
+[parameter:RandParam]
+Format="%lu"
+GenerateNewVal="EachOccurrence"
+MaxValue="100"
+MinValue="1"
+OriginalValue=""
+ParamName="RandParam"
+Type="Random"
